@@ -22,6 +22,11 @@ and I am interested by System-on-Chip security
 ([first academic place](https://twitter.com/s3eurecom/status/1136198571785641985?s=20)
 at [Hack@DAC19](https://hackat.events/dac19/) with the team NOPS). 
 
+During my Ph.D., I had the chance to visit the [UCL Crypto
+Group](https://www-crypto.elen.ucl.ac.be/crypto/default/home) at
+[UCLouvain](https://uclouvain.be/fr/index.html) twice, for a total of four
+weeks.
+
 At EURECOM I
 help with the [Wireless Security course](http://www.eurecom.fr/en/course/WiSec-2018Fall).
 
