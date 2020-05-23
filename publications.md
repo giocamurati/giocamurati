@@ -26,6 +26,8 @@ Please visit:<br/>
         <div class="authors">Giovanni Camurati, Sebastian Poeplau, Marius Muench, Tom Hayes, Aurélien Francillon</div>
 	   <em>Proceedings of the 25th ACM conference on Computer and communications security (CCS), Toronto, Canada, October 2018</em>
 	   <em>(acceptance rate: 16.6%)</em>
+       <br>
+       <b><em>3rd place at the CSAW18 applied research competition</em></b>
     <div>
     <a href="http://s3.eurecom.fr/docs/ccs18_camurati.pdf">PDF</a>
     <a href="http://s3.eurecom.fr/bibs/ccs18_camurati.bib">Bibtex</a>
