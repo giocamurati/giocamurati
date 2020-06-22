@@ -24,11 +24,14 @@ Please visit:<br/>
     <blockquote>
       <div class="titl">Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks</div>
         <div class="authors">Giovanni Camurati, Aurélien Francillon, François-Xavier Standaert</div>
-	   <em>To appear in IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES 2020)</em>
+	   <em>IACR Transactions on Cryptographic Hardware and Embedded Systems. 2020, 3 (Jun. 2020), 358-401</em>
 	   <em></em>
        <br>
        <b><em>Google Bughunter Program,</em></b>
        <a href="https://bughunter.withgoogle.com/profile/22a6711b-ddb6-4f2f-91ac-71145c3362ec"><b><em>Honorable Mention</em></b></a>
+       <br>
+       <a href="https://doi.org/10.13154/tches.v2020.i3.358-401">DOI</a>
+       <a href="https://tches.iacr.org/index.php/TCHES/article/view/8594/8161">PDF</a>
     </blockquote>
   </div>
 </div>
