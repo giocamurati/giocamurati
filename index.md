@@ -36,9 +36,11 @@ I hold a MS in Electronic Engineering from [Politecnico di Torino](https://www.p
 
 Skiing, sailing, hiking, traveling, learning languages, and
 designing/building radio controlled model planes ([old video][discus])
-are some of my interests outside work.
+are some of my interests outside work. Recently I have been fascinated with
+[rubber-powered gyrocopters][gyro].
 
 [discus]: https://drive.google.com/file/d/1pKVsa5XbBH5sAGzwptYubxKTJwLWQROS/view?usp=sharing
+[gyro]: https://drive.google.com/file/d/1pqwj4_AzsjrSgC49klfArECcnUS1ONlC/view?usp=sharing
 
 <!--## Research Interests-->
 
