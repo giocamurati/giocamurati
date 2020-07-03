@@ -32,6 +32,7 @@ Please visit:<br/>
        <br>
        <a href="https://doi.org/10.13154/tches.v2020.i3.358-401">DOI</a>
        <a href="https://tches.iacr.org/index.php/TCHES/article/view/8594/8161">PDF</a>
+       <a href="https://github.com/eurecom-s3/screaming_channels">Code&Data</a>
     </blockquote>
   </div>
 </div>
