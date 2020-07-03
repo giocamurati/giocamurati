@@ -32,7 +32,7 @@ Please visit:<br/>
        <br>
        <a href="https://doi.org/10.13154/tches.v2020.i3.358-401">DOI</a>
        <a href="https://tches.iacr.org/index.php/TCHES/article/view/8594/8161">PDF</a>
-       <a href="https://github.com/eurecom-s3/screaming_channels">Code&Data</a>
+       <a href="https://eurecom-s3.github.io/screaming_channels/">Code&Data</a>
     </blockquote>
   </div>
 </div>
@@ -53,7 +53,7 @@ Please visit:<br/>
     <a href="http://s3.eurecom.fr/bibs/ccs18_camurati.bib">Bibtex</a>
     <a href="https://youtu.be/0IafNH2WHxk">Video</a>
     <a href="http://s3.eurecom.fr/docs/ccs18_camurati_slides.pdf">Slides</a>
-    <a href="https://github.com/eurecom-s3/screaming_channels">Code&Data</a>
+    <a href="https://eurecom-s3.github.io/screaming_channels/">Code&Data</a>
     <a href="https://youtu.be/K7wqwOzD1Yw">BlackHatUSA2018Video</a>
     <a href="http://s3.eurecom.fr/slides/bh18us_camurati.slides.pdf">BlackHatUSA2018Slides</a>
     </div>
