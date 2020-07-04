@@ -23,7 +23,7 @@ and I am interested by System-on-Chip security
 at [Hack@DAC19][hack-dac-19] with the team NOPS). 
 
 I am currently working on a research project funded by a [Google Faculty
-Award][google-faculty-award]
+Research Award][google-faculty-award]
 granted to my supervisor [Aurélien Francillon][aurel].
 
 During my Ph.D., I had the chance to visit the [UCL Crypto
