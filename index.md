@@ -5,40 +5,60 @@ permalink:
 ---
 
 I am Giovanni Camurati, a Ph.D. student in the [System and Software Security
-Group](http://s3.eurecom.fr/) at [EURECOM](http://www.eurecom.fr/en).
+Group][s3] at [EURECOM][eurecom].
 <!--, under the-->
 <!--supervision of [Aurélien Francillon](http://s3.eurecom.fr/~aurel/) (co-advised-->
 <!--by [Ludovic Apvrille](https://perso.telecom-paristech.fr/apvrille/)).-->
-Before, I did a 6-month internship at [Arm](https://www.arm.com/),
+Before, I did a 6-month internship at [Arm][arm],
 in the CPU design center of Sophia-Antipolis, where many Arm processors were born
-(e.g., [Cortex-A75](https://en.wikipedia.org/wiki/ARM_Cortex-A75)).
+(e.g., [Cortex-A75][cortex-a75]).
 
 I love studying the interplay of hardware, software, and radios in embedded
 systems, to improve their security. My research focuses on novel side channel
-attacks on wireless devices ([Screaming Channels](http://www.s3.eurecom.fr/tools/screaming_channels/)),
+attacks on wireless devices ([Screaming Channels][screaming]),
 but I have also worked on the dynamic analysis
-of embedded software ([Inception](https://inception-framework.github.io/inception/)),
+of embedded software ([Inception][inception]),
 and I am interested by System-on-Chip security
-([first academic place](https://twitter.com/s3eurecom/status/1136198571785641985?s=20)
-at [Hack@DAC19](https://hackat.events/dac19/) with the team NOPS). 
+([first academic place][hack-dac-19-win]
+at [Hack@DAC19][hack-dac-19] with the team NOPS). 
+
+I am currently working on a research project funded by a [Google Faculty
+Award][google-faculty-award]
+granted to my supervisor [Aurélien Francillon][aurel].
 
 During my Ph.D., I had the chance to visit the [UCL Crypto
-Group](https://www-crypto.elen.ucl.ac.be/crypto/default/home) at
-[UCLouvain](https://uclouvain.be/fr/index.html) twice, for a total of four
+Group][ucl-crypto] at
+[UCLouvain][ucl] twice, for a total of four
 weeks.
 
 At EURECOM I
-help with the [Wireless Security course](http://www.eurecom.fr/en/course/WiSec-2018Fall).
+help with the [Wireless Security course][eurecom-wisec].
 
-I hold a MS in Electronic Engineering from [Politecnico di Torino](https://www.polito.it/ateneo/colpodocchio/?lang=en)
-(cum laude) and from [Télécom-ParisTech](https://www.telecom-paris.fr/en/home)
-([Diplôme d'ingénieur](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur)).
+I hold a MS in Electronic Engineering from [Politecnico di Torino][polito]
+(cum laude) and from [Télécom-ParisTech][tpt]
+([Diplôme d'ingénieur][diplome]).
 
 Skiing, sailing, hiking, traveling, learning languages, and
 designing/building radio controlled model planes ([old video][discus])
 are some of my interests outside work. Recently I have been fascinated with
 [rubber-powered gyrocopters][gyro].
 
+[s3]: http://s3.eurecom.fr/
+[eurecom]: http://www.eurecom.fr/en
+[arm]: https://www.arm.com/
+[cortex-a75]: https://en.wikipedia.org/wiki/ARM_Cortex-A75
+[screaming]: http://www.s3.eurecom.fr/tools/screaming_channels/
+[inception]: https://inception-framework.github.io/inception/
+[hack-dac-19-win]: https://twitter.com/s3eurecom/status/1136198571785641985?s=20
+[hack-dac-19]: https://hackat.events/dac19/
+[google-faculty-award]: https://docs.google.com/document/d/e/2PACX-1vRYagtwX_MRJUCc_3KMWhmBNnKz2ZHh0vM63B7OxLWWEfghrWjySPoVYtYum9BBVnrlx-wLi0q6KGAP/pub
+[aurel]: http://s3.eurecom.fr/~aurel/
+[ucl-crypto]: https://www-crypto.elen.ucl.ac.be/crypto/default/home
+[ucl]: https://uclouvain.be/fr/index.html
+[eurecom-wisec]: http://www.eurecom.fr/en/course/WiSec-2018Fall
+[polito]: https://www.polito.it/ateneo/colpodocchio/?lang=en
+[tpt]: https://www.telecom-paris.fr/en/home
+[diplome]: https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur
 [discus]: https://drive.google.com/file/d/1pKVsa5XbBH5sAGzwptYubxKTJwLWQROS/view?usp=sharing
 [gyro]: https://drive.google.com/file/d/1pqwj4_AzsjrSgC49klfArECcnUS1ONlC/view?usp=sharing
 
