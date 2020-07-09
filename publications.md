@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+titlee: Publications
 permalink: /publications/
 ---
 
@@ -22,14 +22,23 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
-      <div class="titl">Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks</div>
-        <div class="authors">Giovanni Camurati, Aurélien Francillon, François-Xavier Standaert</div>
-	   <em>IACR Transactions on Cryptographic Hardware and Embedded Systems. 2020, 3 (Jun. 2020), 358-401</em>
-	   <em></em>
-       <br>
-       <b><em>Google Bughunter Program,</em></b>
-       <a href="https://bughunter.withgoogle.com/profile/22a6711b-ddb6-4f2f-91ac-71145c3362ec"><b><em>Honorable Mention</em></b></a>
-       <br>
+      <div class="title">SoC Security Evaluation: Reflections on Methodology and Tooling</div>
+      <div class="authors">Nassim Corteggiani, <u>Giovanni Camurati</u>, Marius Muench, Sebastian Poeplau, Aurélien Francillon</div>
+	  <div class="venue">Accepted for publication in IEEE Design and Test, Special Issue on Hack@DAC</div>
+    </blockquote>
+  </div>
+</div>
+
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
+      <div class="title">Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks</div>
+      <div class="authors"><u>Giovanni Camurati</u>, Aurélien Francillon, François-Xavier Standaert</div>
+	  <div class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems. 2020, 3 (Jun. 2020), 358-401</div>
+       <div class="prize">Google Bughunter Program, Honorable Mention
+       <!--<a href="https://bughunter.withgoogle.com/profile/22a6711b-ddb6-4f2f-91ac-71145c3362ec"><b>Honorable Mention</b></a>-->
+       </div>
        <a href="https://doi.org/10.13154/tches.v2020.i3.358-401">DOI</a>
        <a href="https://tches.iacr.org/index.php/TCHES/article/view/8594/8161">PDF</a>
        <a href="https://eurecom-s3.github.io/screaming_channels/">Code&Data</a>
@@ -42,12 +51,11 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
-      <div class="titl">Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers</div>
-        <div class="authors">Giovanni Camurati, Sebastian Poeplau, Marius Muench, Tom Hayes, Aurélien Francillon</div>
-	   <em>Proceedings of the 25th ACM conference on Computer and communications security (CCS), Toronto, Canada, October 2018</em>
-	   <em>(acceptance rate: 16.6%)</em>
-       <br>
-       <b><em>3rd place at the CSAW18 applied research competition</em></b>
+      <div class="title">Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers</div>
+      <div class="authors"><u>Giovanni Camurati</u>, Sebastian Poeplau, Marius Muench, Tom Hayes, Aurélien Francillon</div>
+	  <div class="venue">Proceedings of the 25th ACM conference on Computer and communications security (CCS), Toronto, Canada, October 2018</div>
+	  <div class="venue">(acceptance rate: 16.6%)</div>
+      <div class="prize">3rd place at the CSAW Europe 2018 applied research competition</div>
     <div>
     <a href="http://s3.eurecom.fr/docs/ccs18_camurati.pdf">PDF</a>
     <a href="http://s3.eurecom.fr/bibs/ccs18_camurati.bib">Bibtex</a>
@@ -65,10 +73,10 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
-      <div class="titl">Inception: System-wide Security Testing of Real-World Embedded Systems Software</div>
-        <div class="authors">Nassim Corteggiani, Giovanni Camurati, Aurélien Francillon</div>
-          <em>Proceedings of the 27th USENIX Security Symposium (USENIX Security 18), Baltimore, USA, August 2018</em>
-          <em>(acceptance rate: 19.1%)</em>
+      <div class="title">Inception: System-wide Security Testing of Real-World Embedded Systems Software</div>
+      <div class="authors">Nassim Corteggiani, <u>Giovanni Camurati</u>, Aurélien Francillon</div>
+      <div class="venue">Proceedings of the 27th USENIX Security Symposium (USENIX Security 18), Baltimore, USA, August 2018</div>
+      <div class="venue">(acceptance rate: 19.1%)</div>
     <div>
     <a href="http://s3.eurecom.fr/docs/usenixsec18_corteggiani.pdf">PDF</a>
     <a href="http://s3.eurecom.fr/bibs/usenixsec18_corteggiani.bib">Bibtex</a>
