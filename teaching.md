@@ -25,7 +25,7 @@ happy to learn from him. My main contributions are:
 
 3. **Demos**<br/>
    During each class I present some demos about the topics discussed in the
-   course. Over the last two year I have built a small collection,
+   course. Over the last two years I have built a small collection,
    and started to automate some of them.
 
 4. **Other**<br/>
@@ -47,7 +47,7 @@ projects.
 ### Exam supervision
 
 Every semester we are asked to help with the supervision of exams. We have to
-insure that exams start and end on time, and that students behave correctly. 
+ensure that exams start and end on time, and that students behave correctly. 
 
 [0]: http://s3.eurecom.fr/~aurel/
 [1]: http://www.eurecom.fr/en
