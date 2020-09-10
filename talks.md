@@ -31,6 +31,15 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2020/09/09, Virtual (live streaming)<br/>
+**Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (20-minute Talk)**<br/>
+[CONFidence 2020][19]<br/>
+
+0. 2020/09/09, Virtual (pre-recorded)<br/>
+**Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (Paper Presentation)**<br/>
+[IACR Conference on Cryptographic Hardware and Embedded Systems (CHES) 2020][15]<br/>
+[Video][16] [Slides][17] [Paper][18] [Code&Data][12] [Details][13]
+
 0. 2019/10/16, Gardanne, France<br/>
 **Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers (Invited Talk and Poster)**<br/> 
 [Workshop on Practical Hardware Innovations in Security Implementation and Characterization (PHISIC) 2019][6]<br/>
@@ -48,7 +57,7 @@ The most challenging and rewarding experiences were:
 [Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (RESSI) 2019][9]<br/>
 
 0. 2018/10/16, Toronto, Canada<br/>
-**Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers (Paper)**<br/>
+**Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers (Paper Presentation)**<br/>
 [25th ACM conference on Computer and communications security (CCS) 2018][10]<br/>
 [Video][3] [Slides][4] [Paper][11] [Code&Data][12] [Details][13]
 
@@ -81,6 +90,12 @@ The most challenging and rewarding experiences were:
 [10]: https://www.sigsac.org/ccs/CCS2018/index.html
 [11]: http://s3.eurecom.fr/docs/ccs18_camurati.pdf
 [12]: https://github.com/eurecom-s3/screaming_channels
-[13]: http://s3.eurecom.fr/tools/screaming_channels/
+[13]: https://eurecom-s3.github.io/screaming_channels/
 <!--Black Hat 2018-->
 [14]: https://www.blackhat.com/us-18/briefings/schedule/index.html#screaming-channels-when-electromagnetic-side-channels-meet-radio-transceivers-11421
+<!--CHES 2020-->
+[15]: https://ches.iacr.org/
+[16]: https://youtu.be/Xb9xGwiOYkY
+[17]: https://iacr.org/submit/files/slides/2020/tches/ches2020/30395/slides.pdf
+[18]: https://tches.iacr.org/index.php/TCHES/article/view/8594/8161
+[19]: https://confidence-conference.org/
