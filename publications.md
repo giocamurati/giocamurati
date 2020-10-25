@@ -42,6 +42,8 @@ Please visit:<br/>
        <a href="https://doi.org/10.13154/tches.v2020.i3.358-401">DOI</a>
        <a href="https://tches.iacr.org/index.php/TCHES/article/view/8594/8161">PDF</a>
        <a href="https://eurecom-s3.github.io/screaming_channels/">Code&Data</a>
+       <a href="https://youtu.be/Xb9xGwiOYkY">Video</a>
+       <a href="https://iacr.org/submit/files/slides/2020/tches/ches2020/30395/slides.pdf">Slides</a>
     </blockquote>
   </div>
 </div>
