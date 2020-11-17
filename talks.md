@@ -31,6 +31,10 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2020/11/06, Virtual (live streaming)<br/>
+**Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (7-minute Talk)**<br/>
+[CSAW 2020 Applied Research Competition Finals][19]<br/>
+
 0. 2020/09/09, Virtual (live streaming)<br/>
 **Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (20-minute Talk)**<br/>
 [CONFidence 2020][19]<br/>

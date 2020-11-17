@@ -8,7 +8,7 @@ As a Ph.D. student, I am involved in some of the teaching activities at [EURECOM
 
 ### Helping with the Wireless Security Course
 
-During the last two years (2020-2019/2019-2018) my supervisor [Aurélien Francillon][0] gave me the
+During the last three years (2020-2018) my supervisor [Aurélien Francillon][0] gave me the
 opportunity to help with the preparation of his new [Wireless Security Course][2]. I am very
 happy to learn from him. My main contributions are:
 
