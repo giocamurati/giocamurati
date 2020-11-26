@@ -4,9 +4,25 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### VU Amsterdam
+
+#### Guest lecture on Wireless Security (2020/11/25, online)
+
+In 2020 I was invited by Marius Muench to give a guest lecture on the topic of Wireless Security
+at VU Amsterdam. This was my first time designing and teaching a full lecture on
+my own, and it was an enriching experience. I enjoyed preparing it and
+interacting with the students. After a short background on radio
+communications, the lecture covered the main challenges
+in Wireless Security, followed by some examples of tools and attacks. I have
+also introduced Emission Security and Screaming Channels. 
+I received good feedback and I look forward to future opportunities like this
+one.
+
+### EURECOM
+
 As a Ph.D. student, I am involved in some of the teaching activities at [EURECOM][1].
 
-### Helping with the Wireless Security Course
+#### Helping with the Wireless Security Course
 
 During the last three years (2020-2018) my supervisor [Aurélien Francillon][0] gave me the
 opportunity to help with the preparation of his new [Wireless Security Course][2]. I am very
@@ -21,7 +37,7 @@ happy to learn from him. My main contributions are:
    very involved in this, from proposing project ideas to helping the students
    and managing hardware and instruments. Keeping track of 20 different subjects
    and groups and dozens of devices is a bit challenging and time consuming, but
-   very rewarding.
+   very rewarding. I have also supervised a 5-day student project.
 
 3. **Demos**<br/>
    During each class I present some demos about the topics discussed in the
@@ -32,7 +48,7 @@ happy to learn from him. My main contributions are:
    In general, I help with the preparation of the course, the exam, the
    communication with the students, etc.
 
-### Proposing and supervising semester projects
+#### Proposing and supervising semester projects
 
 Every semester, together with my supervisor and my colleagues, we propose
 several subjects that the students can choose as semester projects. When a
@@ -44,7 +60,7 @@ topics. Often, students need to borrow some hardware or learn to use some
 laboratory equipment (e.g. spectrum analyzer). I usually help with this for all
 projects.
 
-### Exam supervision
+#### Exam supervision
 
 Every semester we are asked to help with the supervision of exams. We have to
 ensure that exams start and end on time, and that students behave correctly. 
