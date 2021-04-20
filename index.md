@@ -4,7 +4,7 @@ title:
 permalink:
 ---
 
-### About me
+<!--### About me-->
 
 I am Giovanni Camurati, a postdoc in the [System Security Group][eth-syssec] at
 [ETH Zürich][ethz], under the supervision of Pr. [Srdjan Capkun][srdjan].
