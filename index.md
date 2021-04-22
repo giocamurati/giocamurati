@@ -7,7 +7,7 @@ permalink:
 <!--### About me-->
 
 I am Giovanni Camurati, a postdoc in the [System Security Group][eth-syssec] at
-[ETH Zürich][ethz], under the supervision of Pr. [Srdjan Capkun][srdjan].
+[ETH Zurich][ethz], under the supervision of Pr. [Srdjan Capkun][srdjan].
 
 Before, I was a Ph.D. student in the [System and Software Security
 Group][s3] at [EURECOM][eurecom], under the
