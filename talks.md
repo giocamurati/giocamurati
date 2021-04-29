@@ -31,9 +31,16 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2021/04/29, Virtual (pre-recorded)<br/>
+**Screaming Channels: When TEMPEST Meets Side Channels and Wireless Security (90-minute Talk)**<br/>
+[Riscure Webcasts][22]<br/>
+
+0. 2020/12/08, Virtual (live streaming)<br/>
+**PhD Thesis Defense: Security Threats Emerging from the Interaction Between Electromagnetic Noise and Radio Transceivers**<br/>
+
 0. 2020/11/06, Virtual (live streaming)<br/>
 **Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (7-minute Talk)**<br/>
-[CSAW 2020 Applied Research Competition Finals][19]<br/>
+[CSAW 2020 Applied Research Competition Finals][20]<br/>
 
 0. 2020/09/09, Virtual (live streaming)<br/>
 **Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (20-minute Talk)**<br/>
@@ -103,3 +110,5 @@ The most challenging and rewarding experiences were:
 [17]: https://iacr.org/submit/files/slides/2020/tches/ches2020/30395/slides.pdf
 [18]: https://tches.iacr.org/index.php/TCHES/article/view/8594/8161
 [19]: https://confidence-conference.org/
+[20]: https://www.csaw.io/europe
+[22]: https://gateway.on24.com/wcc/eh/2543284/lp/3076847/screaming-channels-when-tempest-meets-side-channels-and-wireless-security/
